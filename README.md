@@ -1,2 +1,2 @@
 # MyConfigs
-Repositorio para respaldar mis dotfiles y cambiarme a fedora :)
+Random Files for random linux rices
